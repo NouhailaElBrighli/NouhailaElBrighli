@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Nouhaila El Brighli</h1>
+<h3 align="center">A passionate computer science student at 1337</h3>
 
-<!--
-**NouhailaElBrighli/NouhailaElBrighli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+ 🌱 I’m currently learning **Python** 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💬 Ask me about **C, C++** 💬
+
+</div>
+<br/>
+<br/>
+<div align="center">
+<img align="center"  src="https://badge.mediaplus.ma/binary/nel-brig" />
+</div>
+<br/>
+<br/>

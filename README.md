@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <div align="center">
-<img align="center"  src="https://badge.mediaplus.ma/binary/nel-brig" />
+<img align="center"  src="https://badge.mediaplus.ma/greenbinary/nel-brig" />
 </div>
 <br/>
 <br/>

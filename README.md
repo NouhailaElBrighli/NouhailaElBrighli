@@ -5,7 +5,7 @@
 
  🌱 I’m currently learning **Python** 🌱
 
- 💬 Ask me about **C, C++** 💬
+ 💬 Ask me about **C, C++** **JavaScript** **Mongodb** **postgresql** **docker**💬
 
 </div>
 <br/>

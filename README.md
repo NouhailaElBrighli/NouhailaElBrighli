@@ -3,9 +3,7 @@
 
 <div align="center">
 
- 🌱 I’m currently learning **Python** 🌱
-
- 💬 Ask me about **C, C++**, **JavaScript**, **Mongodb**, **postgresql**, **docker**💬
+ 💬 Ask me about **C, C++**, **JavaScript**, **Mongodb**, **postgresql**, **docker**, **docker compose**💬
 
 </div>
 <br/>

@@ -1,9 +1,9 @@
 # Hi, I'm Nouhaila 👋
 
-Software Engineer based in Casablanca, Morocco, currently building backend and full-stack solutions at **Akkodis**. I came into engineering through 42/1337's project-based program after starting out in economics — so I like systems that are both well-architected and well-reasoned about.
+Software Engineer based in Casablanca, Morocco, currently building backend and full-stack solutions at **Akkodis**. I came into engineering through 42/1337's project-based program.
+I like systems that are both well-architected and well-reasoned about.
 
-- 🔭 Currently working with **JavaScript/Node.js and MongoDB** in production, and shipping infrastructure projects with **Docker, Kubernetes, and Ansible** on the side.
-- 🌱 Exploring paths toward engineering management / technical leadership.
+- 🔭 Currently working with **JavaScript/Node.js and MongoDB** in production.
 - 🌍 Open to relocation.
 - 💬 Fluent in English, French, and Arabic.
 
@@ -32,7 +32,6 @@ Software Engineer based in Casablanca, Morocco, currently building backend and f
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Featured Projects
